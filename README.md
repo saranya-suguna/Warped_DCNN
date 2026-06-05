@@ -33,7 +33,6 @@ Demo notebook
 
 ## Columns / Fields
 ### The PanSTARRS predicted sample share the following columns :
-
     Obj_name — user defined id
     PGC — PGC name (Unique identification number linked to the HyperLeda database)
     EGIPS — Edge-on galaxies in the Pan-STARRS survey designation 
@@ -43,7 +42,6 @@ Demo notebook
     max_prob: Model's predicted probability for the reported class.
 
 ### The Euclid predicted sample share the following columns :
-
     Obj_name — user defined id
     right_ascension
     declination
