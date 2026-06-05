@@ -31,5 +31,30 @@ Demo notebook
     prediction_code_FITS.ipynb — Demonstrates loading the above model and generating predictions for new galaxy images.
 
 
+## Columns / Fields
+
+### The PanSTARRS predicted sample share the following columns :
+
+    Obj_name — user defined id
+    PGC — PGC name (Unique identification number linked to the HyperLeda database)
+    EGIPS — Edge-on galaxies in the Pan-STARRS survey designation 
+    RAJ2000 — Right ascension (J2000) (ra) 
+    DEJ2000 — Declination (J2000) (dec)
+    Coord — Coordinates in the sexagesimal format 
+    max_prob: Model's predicted probability for the reported class.
+
+### The Euclid predicted sample share the following columns :
+
+    Obj_name — user defined id
+    right_ascension
+    declination
+    max_prob: Model's predicted probability for the reported class.
+    
+
+## Contact
+
+For more information, please contact: Saranya Suguna J — saranya.suguna5@gmail.com
+
+
 
 
