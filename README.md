@@ -32,7 +32,6 @@ Demo notebook
 
 
 ## Columns / Fields
-
 ### The PanSTARRS predicted sample share the following columns :
 
     Obj_name — user defined id
