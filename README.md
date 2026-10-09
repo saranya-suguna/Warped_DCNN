@@ -9,17 +9,17 @@ This repository contains the catalogue of newly predicted galaxies, best-perform
 High-confidence predictions (p ≥ 0.85)
 
     Panstarrs_Highconf_Warp.csv
-    Panstarrs_Highconf_Nonwarp.csv
+    Panstarrs_Highconf_Unwarp.csv
     Euclid_Highconf_Warp.csv
-    Euclid_Highconf_Nonwarp.csv
+    Euclid_Highconf_Unwarp.csv
     Lists of new galaxy predictions where the model predicted a class with probability ≥ 0.85.
 
 Lower-confidence predictions (p < 0.85)
 
     Panstarrs_Lowconf_Warp.csv
-    Panstarrs_Lowconf_Nonwarp.csv
+    Panstarrs_Lowconf_Unwarp.csv
     Euclid_Lowconf_Warp.csv
-    Euclid_Lowconf_Nonwarp.csv
+    Euclid_Lowconf_Unwarp.csv
     Predictions where the model probability for the predicted class is below 0.85.
 
 Model weights
